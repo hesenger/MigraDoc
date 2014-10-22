@@ -1,6 +1,8 @@
 MigraDoc
 ========
 
+Mais informações, exemplos e novidades sobre o projeto em [meu blog](http://hesenger.tumblr.com).
+
 Este repositório é um fork do código do projeto original disponível [CodePlex](https://pdfsharp.codeplex.com).
 
 A versão deste repositório é a utilizada no projeto [Report4](https://github.com/hesenger/Report4). Algumas
